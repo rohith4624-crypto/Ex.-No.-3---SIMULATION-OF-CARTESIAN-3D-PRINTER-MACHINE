@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="973" height="603" alt="Screenshot 2026-05-24 191941" src="https://github.com/user-attachments/assets/eff38b8e-e97e-434e-aa9e-8f587a079292" />
+<img width="1029" height="638" alt="Screenshot 2026-05-24 191956" src="https://github.com/user-attachments/assets/62f5f246-937a-4739-8f30-2b63f3ad3ca3" />
+<img width="1010" height="655" alt="Screenshot 2026-05-24 192030" src="https://github.com/user-attachments/assets/dc008cd5-1352-464b-bc33-8aeedeb3605e" />
+<img width="985" height="644" alt="Screenshot 2026-05-24 192039" src="https://github.com/user-attachments/assets/8460eccb-cfd4-44c6-8074-3ec5dc1aa58e" />
+<img width="927" height="845" alt="Screenshot 2026-05-24 192102" src="https://github.com/user-attachments/assets/35e83f8e-c27a-480a-b50e-63bb7ad8f5ca" />
 
-### Name: 
-### Register Number:
+
+### Name: ROHITH R
+### Register Number: 212225230229
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
